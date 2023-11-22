@@ -15,27 +15,27 @@ struct Stack {
 };
 
 struct Social {
-    char* Discord;
-    char* Instagram;
+    char* discord;
+    char* instagram;
 };
 
 int main() {
     struct Bio bio = {
-        name = "Dzaki Sultan Rabbani";
-        major = "Informatics";
-        university = "Universitas Negeri Padang";
-        base = "Padang, Indonesia";
+        .name = "Dzaki Sultan Rabbani",
+        .major = "Informatics",
+        .university = "Universitas Negeri Padang",
+        .base = "Padang, Indonesia"
     };
 
     struct Stack stack = {
-        languanges = {"HTML", "CSS", "C"};
-        databases = {"NULL"};
-        ongoing = {"JAVA", "PYTHON"};
+        .languages = {"HTML", "CSS", "C"},
+        .databases = {NULL},
+        .ongoing = {"JAVA", "PYTHON"}
     };
 
     struct Social social = {
-        Discord = "NyotNyot";
-        Instagram = "dzakisultanr";
+        .discord = "NyotNyot",
+        .instagram = "dzakisultanr"
     };
 
     return 0;
