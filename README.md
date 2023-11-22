@@ -9,9 +9,9 @@ struct Bio {
 };
 
 struct Stack {
-    char* languages[3];
+    char* languages[2];
     char* databases[1];
-    char* ongoing[2];
+    char* ongoing[3];
 };
 
 struct Social {
@@ -28,9 +28,9 @@ int main() {
     };
 
     struct Stack stack = {
-        .languages = {"HTML", "CSS", "C"},
+        .languages = {"HTML", "CSS"},
         .databases = {NULL},
-        .ongoing = {"JAVA", "PYTHON"}
+        .ongoing = {"C", "JAVA", "PYTHON"}
     };
 
     struct Social social = {
