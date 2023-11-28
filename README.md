@@ -17,13 +17,13 @@
 ## 📊 GitHub Stats:
 <table align="center">
   <tr>
-    <td><img width="500p" align="center" src="https://github-readme-stats.vercel.app/api?username=Nyot-Nyot&theme=gruvbox&hide_border=false&include_all_commits=false&count_private=false"><br><br><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Nyot-Nyot&theme=gruvbox&hide_border=false"></td>
-    <td><img width="500p" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nyot-Nyot&theme=gruvbox&hide_border=false&include_all_commits=false&count_private=false&layout=compact"></td>
+    <td><img width="500p" align="center" src="https://github-readme-stats.vercel.app/api?username=Nyot-Nyot&theme=radical&hide_border=false&include_all_commits=false&count_private=false"><br><br><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Nyot-Nyot&theme=radical&hide_border=false"></td>
+    <td><img width="500p" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nyot-Nyot&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact"></td>
   </tr>
 </table>
 
 ### ✍️ Random Dev Quote
-<div align="center"><img align="center" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox"></div>
+<div align="center"><img align="center" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"></div>
 
 ### 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/NyotNyot) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://web.facebook.com/dzaki.sultan.5) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/dzakisultanr/) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://id.quora.com/profile/Dzaki-Sultan-Rabbani) 
