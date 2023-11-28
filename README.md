@@ -1,3 +1,7 @@
+<div align="center" class="banner">
+  <img width="900p" src="">
+</div>
+
 # 💫 About Me:
 👋️ Hello, I'm Dzaki, 1st semester informatics student.<br>🎓️ I am currently studying Informatics at Universitas Negeri Padang<br>🌱️ I'm in the process of learning algorithms using the C language<br>🤔 I’m looking for help with anything I am currently learning! 😅<br>🤓️ Fun fact, A day without sun is like... you know, night
 
