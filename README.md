@@ -1,5 +1,7 @@
+<img width="900p" src="files/Banner-image(1).png">
+
 # 💫 About Me:
-<img align="right" height="150p" src="files/8390-fubuki-shirakami-without-background.gif">
+<img align="right" src="files/8390-fubuki-shirakami-without-background.gif">
 
 <div align="left">
   <p>
