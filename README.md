@@ -1,4 +1,4 @@
-<img width="900p" src="files/Banner-image(1).png">
+<img src="files/github-header-image.png">
 
 # ✨️ About Me:
 <img align="right" src="files/8390-fubuki-shirakami-without-background.gif">
