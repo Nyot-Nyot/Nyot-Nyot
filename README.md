@@ -36,5 +36,4 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=Nyot-Nyot&icon=5&color=11)](https://visitcount.itsvg.in)
 
-![Snake animation](https://github.com/Nyot-Nyot/Nyot-Nyot/blob/output/github-contribution-grid-snake.svg)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
