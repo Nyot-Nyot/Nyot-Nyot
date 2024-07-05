@@ -1,22 +1,16 @@
 <img src="files/github-header-image.png" alt="Header Image">
 
-# ✨️ About Me:
+# ✨️ About Me
 <img align="right" src="files/8390-fubuki-shirakami-without-background.gif" alt="Fubuki Shirakami GIF">
 
-<div align="left">
-    <p>
-        👋️ Hello, my name is Dzaki Sultan Rabbani<br>
-        🌱️ I'm a beginner programmer<br>
-        🎓️ Currently studying Informatics at Universitas Negeri Padang<br>
-        💀 Ready to killing myself by studying machine learning<br>
-        🤯 In dire need of help in anything I learn<br>
-        <span style="display: inline-flex; align-items: center;">
-            <img src="files/Arch-btw.png" alt="Arch Linux Icon" width="20" height="20" style="margin-right: 5px;"> I use Arch btw 😎
-        </span><br>
-    </p>
-</div>
+👋️ Hello, my name is Dzaki Sultan Rabbani  
+🌱️ I'm a beginner programmer  
+🎓️ Currently studying Informatics at Universitas Negeri Padang  
+💀 Ready to conquer machine learning  
+🤯 In dire need of help in everything I learn  
+<img src="files/Arch-btw.png" alt="Arch Linux Icon" width="19" height="19" style="vertical-align: text-bottom;"> I use Arch btw 😎
 
-## 💻 Tech Stack:
+## 💻 Tech Stack
 ### 😎️ Mastered
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
@@ -36,7 +30,7 @@
 ![Aseprite](https://img.shields.io/badge/Aseprite-FFFFFF?style=for-the-badge&logo=Aseprite&logoColor=#7D929E) 
 ![Gimp](https://img.shields.io/badge/Gimp-657D8B?style=for-the-badge&logo=gimp&logoColor=FFFFFF)
 
-## 📊 GitHub Stats:
+## 📊 GitHub Stats
 <table align="center">
     <tr>
         <td>
@@ -55,7 +49,7 @@
     <img align="center" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Dev Quote">
 </div>
 
-### 🌐 Socials:
+### 🌐 Socials
 <div align="center">
     <a href="https://discordapp.com/users/823916335314632805" target="_blank">
         <img src="https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white" alt="Discord">
