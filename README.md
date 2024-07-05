@@ -4,13 +4,14 @@
 <img align="right" src="files/8390-fubuki-shirakami-without-background.gif" alt="Fubuki Shirakami GIF">
 
 <div align="left">
-  <p>
-    👋️ Hello, my name is Dzaki Sultan Rabbani<br>
-    🌱️ I'm a beginner programmer<br>
-    🎓️ Currently studying Informatics at Universitas Negeri Padang<br>
-    💀 Ready to killing myself by studying machine learning<br>
-    🤯 In dire need of help in anything I learn<br><br>
-  </p>
+    <p>
+        👋️ Hello, my name is Dzaki Sultan Rabbani<br>
+        🌱️ I'm a beginner programmer<br>
+        🎓️ Currently studying Informatics at Universitas Negeri Padang<br>
+        💀 Ready to killing myself by studying machine learning<br>
+        🤯 In dire need of help in anything I learn<br><br>
+        <img src="files/Arch-btw.png" alt="Archlinux Icon" width="20" height="20"> I use Arch btw 😎
+    </p>
 </div>
 
 ## 💻 Tech Stack:
@@ -35,44 +36,44 @@
 
 ## 📊 GitHub Stats:
 <table align="center">
-  <tr>
-    <td>
-      <img width="500" align="center" src="https://github-readme-stats.vercel.app/api?username=Nyot-Nyot&theme=jolly&hide_border=false&include_all_commits=false&count_private=true" alt="GitHub Stats">
-      <br><br>
-      <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Nyot-Nyot&theme=jolly&hide_border=false" alt="GitHub Streak">
-    </td>
-    <td>
-      <img width="500" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nyot-Nyot&theme=jolly&hide_border=false&include_all_commits=false&count_private=true&layout=compact" alt="Top Languages">
-    </td>
-  </tr>
+    <tr>
+        <td>
+            <img width="500" align="center" src="https://github-readme-stats.vercel.app/api?username=Nyot-Nyot&theme=jolly&hide_border=false&include_all_commits=false&count_private=true" alt="GitHub Stats">
+            <br><br>
+            <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Nyot-Nyot&theme=jolly&hide_border=false" alt="GitHub Streak">
+        </td>
+        <td>
+            <img width="500" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nyot-Nyot&theme=jolly&hide_border=false&include_all_commits=false&count_private=true&layout=compact" alt="Top Languages">
+        </td>
+    </tr>
 </table>
 
 ### ✍️ Random Dev Quote
 <div align="center">
-  <img align="center" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Dev Quote">
+    <img align="center" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Dev Quote">
 </div>
 
 ### 🌐 Socials:
 <div align="center">
-  <a href="https://discordapp.com/users/823916335314632805" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white" alt="Discord">
-  </a>
-  <a href="https://web.facebook.com/dzaki.sultan.5" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white" alt="Facebook">
-  </a>
-  <a href="https://www.instagram.com/dzakisultanr/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" alt="Instagram">
-  </a>
-  <a href="https://id.quora.com/profile/Dzaki-Sultan-Rabbani" target="_blank">
-    <img src="https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white" alt="Quora">
-  </a>
+    <a href="https://discordapp.com/users/823916335314632805" target="_blank">
+        <img src="https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white" alt="Discord">
+    </a>
+    <a href="https://web.facebook.com/dzaki.sultan.5" target="_blank">
+        <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white" alt="Facebook">
+    </a>
+    <a href="https://www.instagram.com/dzakisultanr/" target="_blank">
+        <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" alt="Instagram">
+    </a>
+    <a href="https://id.quora.com/profile/Dzaki-Sultan-Rabbani" target="_blank">
+        <img src="https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white" alt="Quora">
+    </a>
 </div>
 
 ---
 <div align="center">
-  <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=Nyot-Nyot&icon=5&color=11" alt="Visitor Count">
-  </a>
+    <a href="https://visitcount.itsvg.in">
+        <img src="https://visitcount.itsvg.in/api?id=Nyot-Nyot&icon=5&color=11" alt="Visitor Count">
+    </a>
 </div>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
