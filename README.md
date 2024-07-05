@@ -3,12 +3,12 @@
 # ✨️ About Me
 <img align="right" src="files/8390-fubuki-shirakami-without-background.gif" alt="Fubuki Shirakami GIF">
 
-👋️ Hello, my name is Dzaki Sultan Rabbani  
-🌱️ I'm a beginner programmer  
-🎓️ Currently studying Informatics at Universitas Negeri Padang  
-💀 Ready to kill myself to learn machine learning
-🤯 Need financial support please 🥺
-<img src="files/Arch-btw.png" alt="Arch Linux Icon" width="19" height="19" style="vertical-align: text-bottom;"> I use Arch btw 😎
+👋️ Hello, my name is Dzaki Sultan Rabbani<br>
+🌱️ I'm a beginner programmer<br>
+🎓️ Currently studying Informatics at Universitas Negeri Padang<br>
+💀 Ready to kill myself to learn machine learning<br>
+<img src="files/Arch-btw.png" alt="Arch Linux Icon" width="19" height="19" style="vertical-align: text-bottom;"> I use Arch btw 😎<br><br>
+🤯 Need financial support please 😭<br>
 
 ## 💻 Tech Stack
 ### 😎️ Mastered
