@@ -9,8 +9,10 @@
         🌱️ I'm a beginner programmer<br>
         🎓️ Currently studying Informatics at Universitas Negeri Padang<br>
         💀 Ready to killing myself by studying machine learning<br>
-        🤯 In dire need of help in anything I learn<br><br>
-        <img src="files/Arch-btw.png" alt="Archlinux Icon" width="20" height="20"> I use Arch btw 😎
+        🤯 In dire need of help in anything I learn<br>
+        <span style="display: inline-flex; align-items: center;">
+            <img src="files/Arch-btw.png" alt="Arch Linux Icon" width="20" height="20" style="margin-right: 5px;"> I use Arch btw 😎
+        </span><br>
     </p>
 </div>
 
