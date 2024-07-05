@@ -8,7 +8,7 @@
     👋️ Hello, my name is Dzaki Sultan Rabbani<br>
     🌱️ I'm a beginner programmer<br>
     🎓️ Currently studying Informatics at Universitas Negeri Padang<br>
-    💀 Ready to kill myself learning machine learning<br>
+    💀 Ready to killing myself by studying machine learning<br>
     🤯 In dire need of help in anything I learn<br><br>
   </p>
 </div>
