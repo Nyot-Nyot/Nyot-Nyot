@@ -6,8 +6,8 @@
 👋️ Hello, my name is Dzaki Sultan Rabbani  
 🌱️ I'm a beginner programmer  
 🎓️ Currently studying Informatics at Universitas Negeri Padang  
-💀 Ready to conquer machine learning  
-🤯 In dire need of help in everything I learn  
+💀 Ready to kill myself to learn machine learning
+🤯 Need financial support please 🥺
 <img src="files/Arch-btw.png" alt="Arch Linux Icon" width="19" height="19" style="vertical-align: text-bottom;"> I use Arch btw 😎
 
 ## 💻 Tech Stack
