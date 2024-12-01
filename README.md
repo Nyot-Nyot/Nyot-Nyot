@@ -3,12 +3,8 @@
 # ✨️ About Me
 <img align="right" src="files/8390-fubuki-shirakami-without-background.gif" alt="Fubuki Shirakami GIF">
 
-👋️ Hello, my name is Dzaki Sultan Rabbani<br>
-🌱️ I'm a beginner programmer<br>
-🎓️ Currently studying Informatics at Universitas Negeri Padang<br>
-💀 Ready to kill myself to learn machine learning<br>
-<img src="files/Arch-btw.png" alt="Arch Linux Icon" width="19" height="19" style="vertical-align: text-bottom;"> I use Arch btw 😎<br><br>
-🤯 Need financial support please 😭<br>
+🌐 Web dev? Game dev? Data science? I can't decide, so I learn everything (bad idea, i know).<br>🧠 Learning new things (until I get bored).<br>🤹 Interests change faster than my laptop’s battery drains.<br>📚 Sometimes I read manga instead of documentation. 
+
 
 ## 💻 Tech Stack:
 <table style="width: 100%;">
@@ -17,25 +13,27 @@
             <h3>😎️ Mastered</h3>
             <p>
                 <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C">
-                <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++">
+                <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python">
                 <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
                 <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
-                <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript">
                 <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" alt="PHP">
                 <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
-                <img src="https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white" alt="Markdown">
-                <img src="https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white" alt="Dribbble">
-                <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt="Figma">
+                <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
                 <img src="https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white" alt="Arduino">
+                <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white" alt="Canva">
+                <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt="Figma">
+                <img src="https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white" alt="Dribbble">
             </p>
         </td>
         <td style="width: 50%; vertical-align: top;">
             <h3>📈️ Ongoing</h3>
             <p>
-                <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python">
-                <img src="https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Shell Script">
-                <img src="https://img.shields.io/badge/Aseprite-FFFFFF?style=for-the-badge&logo=Aseprite&logoColor=#7D929E" alt="Aseprite">
-                <img src="https://img.shields.io/badge/Gimp-657D8B?style=for-the-badge&logo=gimp&logoColor=FFFFFF" alt="Gimp">
+                <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas">
+                <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" alt="Numpy">
+                <img src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black" alt="Matplotlib">
+                <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git">
+                <img src="https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black" alt="Cisco">
+                <img src="https://img.shields.io/badge/GODOT-%23FFFFFF.svg?style=for-the-badge&logo=godot-engine" alt="Godot Engine">
             </p>
         </td>
     </tr>
@@ -45,12 +43,12 @@
 <table align="center">
     <tr>
         <td>
-            <img width="500" align="center" src="https://github-readme-stats.vercel.app/api?username=Nyot-Nyot&theme=jolly&hide_border=false&include_all_commits=false&count_private=true" alt="GitHub Stats">
+            <img width="500" align="center" src="https://github-readme-stats.vercel.app/api?username=Nyot-Nyot&theme=jolly&hide_border=false&include_all_commits=true&count_private=false" alt="GitHub Stats">
             <br><br>
             <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Nyot-Nyot&theme=jolly&hide_border=false" alt="GitHub Streak">
         </td>
         <td>
-            <img width="500" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nyot-Nyot&theme=jolly&hide_border=false&include_all_commits=false&count_private=true&layout=compact" alt="Top Languages">
+            <img width="500" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nyot-Nyot&theme=jolly&hide_border=false&include_all_commits=true&count_private=false&layout=compact" alt="Top Languages">
         </td>
     </tr>
 </table>
