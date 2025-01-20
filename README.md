@@ -1,9 +1,9 @@
-<img src="files/github-header-image.png" alt="Header Image">
+<img src="files/github-header-image.png" alt="Header Image"><br><br>
 
 # ✨️ About Me
 <img align="right" src="files/8390-fubuki-shirakami-without-background.gif" alt="Fubuki Shirakami GIF">
 
-🌐 Web dev? Game dev? Data science? I can't decide, so I learn everything (bad idea, i know).<br>🧠 Learning new things (until I get bored).<br>🤹 Interests change faster than my laptop’s battery drains.<br>📚 Sometimes I read manga instead of documentation. 
+👾 Dzaki Sultan Rabbani.<br>💻 College majoring in Informatics.<br>🎓 Universitas Negeri Padang.<br>🌐 Web dev? Game dev? Data science? I can't decide, so I learn everything (bad idea, i know).<br>🧠 Learning new things (until I get bored).<br>📚 Sometimes I read Manga instead of documentation. <br><br>
 
 
 ## 💻 Tech Stack:
@@ -37,26 +37,21 @@
             </p>
         </td>
     </tr>
-</table>
+</table><br><br>
+
 
 ## 📊 GitHub Stats
-<table align="center">
-    <tr>
-        <td>
-            <img width="500" align="center" src="https://github-readme-stats.vercel.app/api?username=Nyot-Nyot&theme=jolly&hide_border=false&include_all_commits=true&count_private=false" alt="GitHub Stats">
-            <br><br>
-            <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Nyot-Nyot&theme=jolly&hide_border=false" alt="GitHub Streak">
-        </td>
-        <td>
-            <img width="500" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nyot-Nyot&theme=jolly&hide_border=false&include_all_commits=true&count_private=false&layout=compact" alt="Top Languages">
-        </td>
-    </tr>
-</table>
+<div align="center">
+    <img width="500" align="center" src="https://github-readme-stats.vercel.app/api?username=Nyot-Nyot&theme=jolly&hide_border=false&include_all_commits=true&count_private=false" alt="GitHub Stats"> <br> <br>
+    <img width="500" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nyot-Nyot&theme=jolly&hide_border=false&include_all_commits=true&count_private=false&layout=compact" alt="Top Languages">
+</div> <br><br>
+
 
 ### ✍️ Random Dev Quote
 <div align="center">
     <img align="center" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Dev Quote">
-</div>
+</div><br><br>
+
 
 ### 🌐 Socials
 <div align="center">
