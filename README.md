@@ -5,7 +5,7 @@
 
 👾 Dzaki Sultan Rabbani<br>
 💻 Informatics student at Universitas Negeri Padang<br>
-🔧 Tinkering with web dev, game engines, and AI — because I can’t pick one lane<br>
+🔧 Tinkering with web dev, game engines, and AI because I can’t pick one lane<br>
 🌱 Learning everything until burnout kicks in<br>
 📚 Sometimes I read manga instead of documentation<br>
 🧠 Jack of all tech, master of CTRL+Z<br>
