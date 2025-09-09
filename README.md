@@ -1,14 +1,19 @@
-<img src="files/github-header-image.png" alt="Header Image"><br><br>
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Dzaki%20Sultan%20Rabbani&fontSize=45&animation=fadeIn&fontAlignY=40&desc=Informatics%20Student%20%7C%20Web%20Dev%20Tinkerer%20%7C%20Chaos%20with%20Purpose&descSize=18&descAlignY=65)
+
 
 # ✨️ About Me
-<img align="right" src="files/8390-fubuki-shirakami-without-background.gif" alt="Fubuki Shirakami GIF" width="350px">
+<!-- <img align="right" src="files/8390-fubuki-shirakami-without-background.gif" alt="Fubuki Shirakami GIF" width="350px"> -->
+<!-- real time -->
+<a href="https://moon-svg.minung.dev">
+  <img align="right" src="https://moon-svg.minung.dev/moon.svg?theme=basic" alt="moon.svg" />
+</a>
 
-👾 Dzaki Sultan Rabbani<br>
 💻 Informatics student at Universitas Negeri Padang<br>
 🔧 Tinkering with web dev, game engines, and AI because I can’t pick one lane<br>
 🌱 Learning everything until burnout kicks in<br>
 📚 Sometimes I read manga instead of documentation<br>
 🧠 Jack of all tech, master of CTRL+Z<br>
+<div align="right"><p>Real time moon</p></div>
 <br><br><br>
 
 <div align="center">
@@ -88,11 +93,6 @@
 ## 🔝 Top Contributed Repo
 <div align="center">
   <img src="https://github-contributor-stats.vercel.app/api?username=Nyot-Nyot&limit=5&theme=aura&combine_all_yearly_contributions=true">
-</div><br>
-
-## ✍️ Random Dev Quote
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical">
 </div><br>
 
 <!--START_SECTION:waka-->
