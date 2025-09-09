@@ -95,6 +95,9 @@
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical">
 </div><br>
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 <div align="center"><a href="https://u8views.com/github/Nyot-Nyot"><img align="center" src="https://u8views.com/api/v1/github/profiles/99807420/views/day-week-month-total-count.svg"></a></div>
 
 <!-- Proudly created with GPRM + manual tweaks -->
