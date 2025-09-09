@@ -13,16 +13,13 @@
 
 <div align="center">
   <a href="https://discordapp.com/users/823916335314632805">
-    <img src="https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white">
-  </a>
-  <a href="https://web.facebook.com/dzaki.sultan.5">
-    <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white">
+    <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Discord/discord1.svg">
   </a>
   <a href="https://www.instagram.com/dzakisultanr/">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white">
+    <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Instagram/instagram1.svg">
   </a>
-  <a href="https://id.quora.com/profile/Dzaki-Sultan-Rabbani">
-    <img src="https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white">
+  <a href="mailto:dzakisultan012@gmail.com">
+    <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Gmail/gmail1.svg">
   </a>
 </div><br>
 
@@ -32,53 +29,43 @@
     <td style="width: 33%; vertical-align: top;">
       <h3>🧠 Confident</h3>
       <p>
-        <img src="https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white">
-        <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
-        <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
-        <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white">
-        <img src="https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
-        <img src="https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white">
-        <img src="https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white">
-        <img src="https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white">
-        <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white">
-        <img src="https://img.shields.io/badge/Godot-%23478cbf.svg?style=for-the-badge&logo=godot-engine&logoColor=white">
-        <img src="https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white">
-        <img src="https://img.shields.io/badge/NumPy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white">
-        <img src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=matplotlib&logoColor=black">
-        <img src="https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=white">
-        <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white">
-        <img src="https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white">
+        <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/C/c1.svg">
+        <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Python/python3.svg">
+        <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/HTML/html1.svg">
+        <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/CSS/css1.svg">
+        <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Javascript/javascript3.svg">
+        <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/PHP/php2.svg">
+        <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/MySQL/mysql1.svg">
+        <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Git/git1.svg">
+        <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Github/github1.svg">
+        <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/MongoDB/mongodb1.svg">
+        <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/PostgreSQL/postgresql1.svg">
       </p>
     </td>
     <td style="width: 33%; vertical-align: top;">
       <h3>🛠️ Learning</h3>
       <p>
-        <img src="https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white">
-        <img src="https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white">
-        <img src="https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB">
-        <img src="https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white">
-        <img src="https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=prisma&logoColor=white">
-        <img src="https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white">
-        <img src="https://img.shields.io/badge/SQLite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white">
-        <img src="https://img.shields.io/badge/LaTeX-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white">
-        <img src="https://img.shields.io/badge/Streamlit-%23FF4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white">
-        <img src="https://img.shields.io/badge/Cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black">
+        <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/NextJS/nextjs1.svg">
+        <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/NodeJS/nodejs1.svg">
+        <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/React/react1.svg">
+        <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/TailwindCSS/tailwindcss1.svg">
+        <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Prisma/prisma1.svg">
+        <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/TypeScript/typescript1.svg">
+        <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/SQLite/sqlite1.svg">
+        <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/KaliLinux/kalilinux1.svg">
       </p>
     </td>
     <td style="width: 33%; vertical-align: top;">
       <h3>🎨 Creative Tools</h3>
       <p>
-        <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white">
-        <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
-        <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white">
-        <img src="https://img.shields.io/badge/Markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white">
-        <img src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white">
-        <img src="https://img.shields.io/badge/GitHub%20CLI-%23121011.svg?style=for-the-badge&logo=github&logoColor=white">
-        <img src="https://img.shields.io/badge/Aseprite-FFFFFF?style=for-the-badge&logo=Aseprite&logoColor=%237D929E">
-        <img src="https://img.shields.io/badge/GIMP-657D8B?style=for-the-badge&logo=gimp&logoColor=white">
-        <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white">
-        <img src="https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white">
-        <img src="https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white">
+        <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/VisualStudioCode/visualstudiocode1.svg">
+        <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Linux/linux1.svg">
+        <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Arduino/arduino1.svg">
+        <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Markdown/markdown1.svg">
+        <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Notion/notion1.svg">
+        <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Figma/figma1.svg">
+        <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Dribble/dribble1.svg">
+        <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Obsidian/obsidian1.svg">
       </p>
     </td>
   </tr>
@@ -107,5 +94,7 @@
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical">
 </div><br>
+
+<div align="center"><a href="https://u8views.com/github/Nyot-Nyot"><img align="center" src="https://u8views.com/api/v1/github/profiles/99807420/views/day-week-month-total-count.svg"></a></div>
 
 <!-- Proudly created with GPRM + manual tweaks -->
