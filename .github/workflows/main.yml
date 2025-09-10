@@ -1,8 +1,8 @@
 name: Generate Datas
 
 on:
-  schedule: # jalan tiap 12 jam
-    - cron: "0 */12 * * *"
+  schedule:
+    - cron: "0 0 * * *" # update tiap jam 7 pagi WIB
   workflow_dispatch:
 
 jobs:
