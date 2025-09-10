@@ -2,8 +2,6 @@
 
 
 # ✨️ About Me
-<!-- <img align="right" src="files/8390-fubuki-shirakami-without-background.gif" alt="Fubuki Shirakami GIF" width="350px"> -->
-<!-- real time -->
 <a href="https://moon-svg.minung.dev">
   <img align="right" src="https://moon-svg.minung.dev/moon.svg?theme=basic" alt="moon.svg" />
 </a>
@@ -90,11 +88,6 @@
   <img src="https://github-profile-trophy.vercel.app/?username=Nyot-Nyot&theme=aura&no-frame=false&no-bg=true&margin-w=4">
 </div><br>
 
-## 🔝 Top Contributed Repo
-<div align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=Nyot-Nyot&limit=5&theme=aura&combine_all_yearly_contributions=true">
-</div><br>
-
 <!--START_SECTION:waka-->
 
 ```txt
@@ -111,5 +104,3 @@ No activity tracked
 
 
 <div align="center"><a href="https://u8views.com/github/Nyot-Nyot"><img align="center" src="https://u8views.com/api/v1/github/profiles/99807420/views/day-week-month-total-count.svg"></a></div>
-
-<!-- Proudly created with GPRM + manual tweaks -->
