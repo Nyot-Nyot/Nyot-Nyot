@@ -91,7 +91,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+⚠️ No coding activity tracked this week — mungkin lagi sibuk ngurus hal lain 😅
 ```
 
 <!--END_SECTION:waka-->
