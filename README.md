@@ -90,8 +90,14 @@
 
 <!--START_SECTION:waka-->
 
-```txt
-⚠️ No coding activity tracked this week — mungkin lagi sibuk ngurus hal lain 😅
+```python
+From: 03 September 2025 - To: 10 September 2025
+
+Total Time: 1 hr 9 mins
+
+Dart         1 hr            ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣶⣀⣀⣀   86.63 %
+YAML         5 mins          ⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   07.67 %
+JavaScript   3 mins          ⣿⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   05.69 %
 ```
 
 <!--END_SECTION:waka-->
