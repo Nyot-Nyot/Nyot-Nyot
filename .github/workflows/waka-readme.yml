@@ -21,7 +21,7 @@ jobs:
           STOP_AT_OTHER: true
           BLOCKS: ⣀⣄⣤⣦⣶⣷⣿
           CODE_LANG: python
-          SECTION_NAME: devstats
+          SECTION_NAME: waka
           COMMIT_MESSAGE: "chore(readme): update WakaTime stats ⏱️"
           COMMITTER_NAME: "Nyot-Nyot"
           COMMITTER_EMAIL: "dzakisultan012@gmail.com"
