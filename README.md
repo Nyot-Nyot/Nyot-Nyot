@@ -39,17 +39,17 @@ not some AI slop, but honest code I’ve written myself.
 <!--START_SECTION:waka-->
 
 ```python
-From: 16 September 2025 - To: 23 September 2025
+From: 17 September 2025 - To: 24 September 2025
 
-Total Time: 5 hrs 58 mins
+Total Time: 5 hrs 50 mins
 
-Dart                3 hrs           50.17 %
-Markdown            1 hr 17 mins    21.69 %
-JavaScript          46 mins         12.96 %
-YAML                29 mins         08.25 %
-Gradle Kotlin DSL   15 mins         04.31 %
-Git Config          5 mins          01.40 %
-````
+Dart                2 hrs 59 mins   ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   51.17 %
+Markdown            1 hr 43 mins    ⣿⣿⣿⣿⣿⣿⣿⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   29.59 %
+YAML                29 mins         ⣿⣿⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   08.43 %
+Gradle Kotlin DSL   15 mins         ⣿⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   04.40 %
+JavaScript          12 mins         ⣷⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   03.61 %
+Git Config          5 mins          ⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   01.43 %
+```
 
 <!--END_SECTION:waka-->
 
