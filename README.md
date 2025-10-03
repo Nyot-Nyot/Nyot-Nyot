@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=Dzaki%20Sultan%20Rabbani&fontSize=40&animation=fadeIn&fontAlignY=35)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Dzaki%20Sultan%20Rabbani&fontSize=45&animation=fadeIn&fontAlignY=40&desc=Informatics%20Student%20%7C%20Jangan%20Harap%20Stabil%20%7C%20Yang%20Penting%20Jalan&descSize=18&descAlignY=65)
 
 # About Me
 I’m an informatics student who simply enjoys learning.  
