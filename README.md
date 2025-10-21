@@ -11,10 +11,10 @@
 
 <p align="center">
   <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/NextJS/nextjs1.svg">
-  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/NodeJS/nodejs1.svg">
-  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/React/react1.svg">
   <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/TailwindCSS/tailwindcss1.svg">
-  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Prisma/prisma1.svg">
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/NodeJS/nodejs1.svg">
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Prisma/prisma1.svg"><br>
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/React/react1.svg">
   <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/TypeScript/typescript1.svg">
 </p>
 <br>
