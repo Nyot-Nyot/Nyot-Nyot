@@ -22,7 +22,7 @@
 ## GitHub Stats
 
 <div align="center">
-  <img width="500" src="https://github-readme-stats.vercel.app/api?username=Nyot-Nyot&theme=aura&hide_border=false&include_all_commits=true&count_private=false"><br>
+  <img width="500" src="https://github-readme-stats.vercel.app/api?username=Nyot-Nyot&theme=aura&include_all_commits=true"><br>
   <img width="500" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nyot-Nyot&theme=aura&hide_border=false&layout=compact"><br>
   <img width="500" src="https://nirzak-streak-stats.vercel.app/?user=Nyot-Nyot&theme=aura&hide_border=false">
 </div>
