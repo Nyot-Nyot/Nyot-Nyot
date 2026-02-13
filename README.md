@@ -3,7 +3,7 @@
 ## About Me
 <img align="right" width="350" src="public/cmd.svg" />
 
-Lagi senang belajar urusan server daripada mewarnai tombol. Fokus di backend karena lebih suka mikirin alur data yang efisien dibanding urusan pixel-perfect. Frontend? Ada, seikhlasnya.
+Lagi belajar urusan server daripada mewarnai tombol. Fokus di backend karena lebih suka mikirin alur data yang efisien dibanding urusan pixel-perfect. Frontend? Ada, seikhlasnya.
 
 <br>
 
