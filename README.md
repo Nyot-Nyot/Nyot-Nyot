@@ -3,7 +3,7 @@
 ## About Me
 <img align="right" width="350" src="public/cmd.svg" />
 
-Lagi belajar urusan server daripada mewarnai tombol. Fokus di backend karena lebih suka mikirin alur data yang efisien dibanding urusan pixel-perfect. Frontend? Ada, seikhlasnya.
+Sedang berkuliah di Universitas Negeri Padang jurusan Informatika. Tertarik Backend dan Mobile Development. Lagi belajar API, database, arsitektur aplikasi, dan flutter
 
 <br>
 
