@@ -21,7 +21,7 @@ Sedang berkuliah di Universitas Negeri Padang jurusan Informatika. Tertarik Back
   </tr>
   <tr>
     <td>
-      <img width="440" src="https://nirzak-streak-stats.vercel.app/?user=Nyot-Nyot&theme=aura&hide_border=false">
+      <img width="440" src="https://streak-stats.demolab.com?user=Nyot-Nyot&theme=aura&date_format=j%20M%5B%20Y%5D">
     </td>
   </tr>
 </table>
