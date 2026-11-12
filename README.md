@@ -31,6 +31,13 @@ Sedang berkuliah di Universitas Negeri Padang jurusan Informatika. Tertarik Back
 
 ---
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://www.gitskins.com/api/section/metro-map?username=nyot-nyot&mode=dark&v=2026-11-11&pv=69NSOLZfl31sflLb" />
+  <img src="https://www.gitskins.com/api/section/metro-map?username=nyot-nyot&mode=dark&v=2026-11-11&pv=69NSOLZfl31sflLb" width="100%" alt="NyotNyot's repositories as a metro map, one line per language" />
+</picture>
+
+---
+
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Nyot-Nyot/Nyot-Nyot/output/github-contribution-grid-snake-dark.svg" />
